@@ -483,7 +483,7 @@ int RGWSelectObj_ObjStore_S3::run_s3select_on_parquet(const char* query)
     s3select_syntax.parse_query(m_sql_query.c_str());
     parquet_object::csv_definitions parquet;
     if (m_outputFormat == OutputFormat::JSON) {
-    parquet.output_json_format = true;
+      parquet.output_json_format = true;
     }
 
   m_s3_parquet_object.set_external_system_functions(fp_s3select_continue,
