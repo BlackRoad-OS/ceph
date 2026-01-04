@@ -242,9 +242,9 @@ private:
 
 public:
   enum class OutputFormat {
-            CSV,
-            JSON
-        };
+    CSV,
+    JSON
+  };
   OutputFormat m_outputFormat = OutputFormat::CSV;
   unsigned int chunk_number;
   size_t m_requested_range;
