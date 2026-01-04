@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22.1)
 
-project(ceph
+project(blackroad-ceph
   VERSION 20.0.0
   LANGUAGES CXX C ASM)
 
