@@ -1,10 +1,11 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ceph
-Upstream-Contact: Ceph Developers <dev@ceph.io>
-Source: http://ceph.com/
+Upstream-Contact: BlackRoad OS, Inc. <info@blackroad-os.com>
+Source: https://github.com/BlackRoad-OS/ceph
 
 Files: *
-Copyright: (c) 2004-2010 by Sage Weil <sage@newdream.net>
+Copyright: (c) 2024-2026 BlackRoad OS, Inc.
+           (c) 2004-2010 by Sage Weil <sage@newdream.net>
 License: LGPL-2.1 or LGPL-3 (see COPYING-LGPL2.1 and COPYING-LGPL3)
 
 Files: cmake/modules/FindLTTngUST.cmake

@@ -1,5 +1,5 @@
 {
-  "name": "ceph-dashboard",
+  "name": "blackroad-ceph-dashboard",
   "version": "0.0.0",
   "license": "MIT",
   "config": {

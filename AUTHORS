@@ -1,10 +1,14 @@
 Maintainer
 ----------
+BlackRoad OS, Inc. <info@blackroad-os.com>
+
+Original Ceph Maintainer
+------------------------
 Sage Weil <sage@redhat.com>
 
 Component Technical Leads
 -------------------------
-For a full list of CTLs and maintainers visit: http://ceph.com/team/
+For the upstream Ceph project CTLs and maintainers visit: http://ceph.com/team/
 
 Contributors
 ------------

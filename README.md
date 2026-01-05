@@ -1,6 +1,8 @@
-# Ceph - a scalable distributed storage system
+# BlackRoad OS Storage - a scalable distributed storage system
 
-See https://ceph.com/ for current information about Ceph.
+This is the BlackRoad OS, Inc. native version of the distributed storage system, based on Ceph technology.
+
+For the original Ceph project, see https://ceph.com/
 
 ## Status
 
@@ -29,18 +31,18 @@ contributed under the terms of the applicable license.
 
 ## Checking out the source
 
-Clone the ceph/ceph repository from github by running the following command on
+Clone the BlackRoad-OS/ceph repository from github by running the following command on
 a system that has git installed:
 
-	git clone git@github.com:ceph/ceph
+	git clone git@github.com:BlackRoad-OS/ceph
 
 Alternatively, if you are not a github user, you should run the following
 command on a system that has git installed:
 
-	git clone https://github.com/ceph/ceph.git
+	git clone https://github.com/BlackRoad-OS/ceph.git
 
-When the `ceph/ceph` repository has been cloned to your system, run the
-following commands to move into the cloned `ceph/ceph` repository and to check
+When the `BlackRoad-OS/ceph` repository has been cloned to your system, run the
+following commands to move into the cloned `ceph` repository and to check
 out the git submodules associated with it:
 
     cd ceph
@@ -330,4 +332,6 @@ To build the documentation, ensure that you are in the top-level
 
 ## Reporting Issues
 
-To report an issue and view existing issues, please visit https://tracker.ceph.com/projects/ceph.
+To report an issue, please visit https://github.com/BlackRoad-OS/ceph/issues
+
+For the upstream Ceph project tracker, visit https://tracker.ceph.com/projects/ceph.
